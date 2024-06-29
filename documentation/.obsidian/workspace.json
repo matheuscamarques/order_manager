@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "8ba151520b1dd42d",
+    "type": "split",
+    "children": [
+      {
+        "id": "964dfc516a52cc33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4299e6111b97c7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto Gestão de Pedidos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "b0ccb021d9e9b6ef"
+          }
+        ]
+      },
+      {
+        "id": "6bc80b5d9190e1bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "998f22207ec95e11",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Projeto Gestão de Pedidos.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "b0ccb021d9e9b6ef"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "294adab221414751",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0c5ea19250b6ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483f5472b9901936",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d74b00722935668b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b36a40904b74626b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e3c1f9b415bc16d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83658102225cf23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1c641de5107857",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projeto Gestão de Pedidos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e10d2930e07b8463",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projeto Gestão de Pedidos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61d7978eff31f329",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d959ee4bc351947f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projeto Gestão de Pedidos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4299e6111b97c7d2",
+  "lastOpenFiles": [
+    "apps/client_manager/Client Manager.md",
+    "apps/rest_api/Rest Api.md",
+    "Projeto Gestão de Pedidos.md",
+    "apps/product_manager/Product Manager.md",
+    "apps/order_manager_web/Order Manager Web.md",
+    "apps/order_manager_web",
+    "Rest.md",
+    "apps/product_order_manager/Product Order Manager.md",
+    "Untitled.canvas",
+    "apps/rest_api",
+    "apps/product_order_manager",
+    "apps/product_manager",
+    "apps/client_manager",
+    "apps"
+  ]
+}
