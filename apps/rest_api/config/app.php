@@ -14,7 +14,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
-
+    'client_manager_base_url' => env('CLIENT_MANAGER_BASE_URL', ''),
     /*
     |--------------------------------------------------------------------------
     | Application Environment
