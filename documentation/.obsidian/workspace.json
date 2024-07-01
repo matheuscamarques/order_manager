@@ -6,6 +6,7 @@
       {
         "id": "964dfc516a52cc33",
         "type": "tabs",
+        "dimension": 82.81786941580756,
         "children": [
           {
             "id": "4299e6111b97c7d2",
@@ -15,7 +16,6 @@
               "state": {
                 "file": "Projeto Gestão de Pedidos.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             },
@@ -26,6 +26,7 @@
       {
         "id": "6bc80b5d9190e1bb",
         "type": "tabs",
+        "dimension": 17.18213058419244,
         "children": [
           {
             "id": "998f22207ec95e11",
@@ -192,14 +193,18 @@
   },
   "active": "4299e6111b97c7d2",
   "lastOpenFiles": [
+    "Pasted image 20240630221926.png",
+    "client_order.drawio.png",
+    "Projeto Gestão de Pedidos.md",
+    "client_order.drawio.crswap",
+    "client_order.drawio",
+    "apps/product_order_manager/Product Order Manager.md",
     "apps/client_manager/Client Manager.md",
     "apps/rest_api/Rest Api.md",
-    "Projeto Gestão de Pedidos.md",
     "apps/product_manager/Product Manager.md",
     "apps/order_manager_web/Order Manager Web.md",
     "apps/order_manager_web",
     "Rest.md",
-    "apps/product_order_manager/Product Order Manager.md",
     "Untitled.canvas",
     "apps/rest_api",
     "apps/product_order_manager",
