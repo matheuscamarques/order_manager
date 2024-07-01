@@ -103,6 +103,8 @@ services:
 networks:
     sail:
         driver: bridge
+        external:
+            name: api_network
 volumes:
     sail-mysql:
         driver: local
