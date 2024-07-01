@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
 
-class ClienteController extends Controller
+class ClientsController extends Controller
 {
     public function index()
     {
